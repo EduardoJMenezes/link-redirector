@@ -10,8 +10,9 @@ const App: React.FC = () => {
 
   const links = [
     { text: 'MATRICULAS CURSO ONLINE 2024', url: 'https://api.whatsapp.com/send/?phone=5581989338998&text&type=phone_number&app_absent=0' },
-    { text: 'LINK DO SITE', url: 'https://quimicarodrigomelo.com.br/' },
-    { text: 'Youtube', url: 'https://www.youtube.com/channel/UCXoaa9JQs_SLst9Moot8P0g' },
+    { text: 'SITE', url: 'https://quimicarodrigomelo.com.br/' },
+    { text: 'Youtube ▶️', url: 'https://www.youtube.com/channel/UCXoaa9JQs_SLst9Moot8P0g' },
+    { text: 'Duvidas sobre o curso?', url: 'https://api.whatsapp.com/send/?phone=5581989338998&text&type=phone_number&app_absent=0' }
   ];
 
   const handleImageClick = () => {
