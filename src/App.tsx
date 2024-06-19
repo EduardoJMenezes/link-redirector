@@ -9,10 +9,9 @@ const App: React.FC = () => {
   const navigate = useNavigate();
 
   const links = [
-    { text: 'REVISÃO PARTICULARES (24-04)', url: 'https://example.com/revisao' },
-    { text: 'MATRICULAS CURSO ONLINE 2024', url: 'https://example.com/matriculas' },
-    { text: 'LINK DO SITE', url: '/carousel' },
-    { text: 'Youtube', url: 'https://youtube.com' },
+    { text: 'MATRICULAS CURSO ONLINE 2024', url: 'https://api.whatsapp.com/send/?phone=5581989338998&text&type=phone_number&app_absent=0' },
+    { text: 'LINK DO SITE', url: 'https://quimicarodrigomelo.com.br/' },
+    { text: 'Youtube', url: 'https://www.youtube.com/channel/UCXoaa9JQs_SLst9Moot8P0g' },
   ];
 
   const handleImageClick = () => {
