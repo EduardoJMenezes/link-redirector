@@ -1,3 +1,16 @@
+html, body {
+  background-color: white;
+  color: black; /* Você também pode definir a cor do texto se necessário */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
 .logo {
   max-width: 150px;
   height: auto;
